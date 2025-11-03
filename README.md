@@ -21,7 +21,6 @@ All source files are included in this project directory for customization.
 - HTML5, CSS3, JavaScript
 - CSS Grid & Flexbox
 - Font Awesome icons
-- [Gemini_Generated_Image_rxd845rxd845rxd8.jpg] as profile photo
 
 ## Author
 
